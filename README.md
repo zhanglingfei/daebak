@@ -1,4 +1,7 @@
 # daebak
+
+This codebase will be available soon! Follow me on Github, or on Twitter at @SteveLManion and I shall tweet it when its ready!
+
 The goal of this repository is to provide tools for Word Sense Disambiguation and Entity Linking, as well as the means for other researchers to reproduce the results of experiments from my thesis and in the following papers:
 
 Manion, S. L. (2015). SUDOKU: Treating Word Sense Disambiguation & Entity Linking as a Deterministic Problem – via an Unsupervised & Iterative Approach. In Proceedings of the 9th International Workshop on Semantic Evaluation (SemEval-2015) (pp. 365–369). Denver, Colorado.
